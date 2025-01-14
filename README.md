@@ -57,7 +57,7 @@ Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://git
 
 ## ¿Dónde encuentro las prácticas?
 
-En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica.
+En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
 
 | LAB  | Enlace |
 |:----:|:------:|
@@ -70,7 +70,60 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 
 ## ¿Cómo empiezo una práctica?
 
-Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition: 
+Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace:   
+
+Lo primero que debemos hacer es seleccionar nuestro nombre entre la lista. **Mucho cuidado, ya que está parte solo la haremos una sola vez!**
+
+<p align="center">
+  <img src="./images/select_name.png" />
+</p>
 
 
+A continuación se nos mostrará una imagen para aceptar la tarea, simplemente hacemos click en "Accept this assignment"
 
+
+<p align="center">
+  <img src="./images/accept.png" />
+</p>
+
+
+Y nos deberá aparecer un mensaje como el siguiente diciendo que se ha creado el repositorio correctamente y un enlace. 
+**Hacemos click en el enlace que nos aparece, siempre empezará por "http://github.com/usc-gria". No hacemos click en "Open in Github Codespaces"**
+
+<p align="center">
+  <img src="./images/created.png" />
+</p>
+
+
+Una vez hacemos click, nos deberá salir una pantalla como la siguiente y este será nuestro repositorio para la práctica. Guárdate el enlace (yo te recomiendo un bookmark en el navegador).
+
+<p align="center">
+  <img src="./images/repository.png" />
+</p>
+
+
+## Lanzar nuestro proyecto y empezar a programar
+
+Antes de comenzar a realizar las prácticas, nos queda el último paso. Ahora debemos lanzar el entorno de desarrollo integrado (IDE) para la programación. Gracias a GitHub Classroom no vamos a tener que instalar nada y haremos las prácticas a través del navegador. Si quieres una configuración más avanzada, instalando todo en tu ordenador, habla conmigo que estaré encantado de ayudarte en la puesta a punto, pero no es necesario para realizar estás prácticas. 
+
+Únicamente debemos hacer click, ahora si, en "Open in Github Codespaces" y se nos abrirá una instancia de Visual Studio Code en el navegador. 
+
+<p align="center">
+  <img src="./images/github_start.png" />
+</p>
+
+
+Ahora nos vamos al código, todas las prácticas tendrán al menos un primer archivo llamado `main.py` en la carpeta `src`. Una vez abierto el archivo `main.py` nos saldrá un mensaje como el que se muestra a continuación para instalar `python`. Lo instalamos y nos aparecerá instalado correctamente. 
+
+<p align="center">
+  <img src="./images/github_install.png" />
+</p>
+<p align="center">
+  <img src="./images/github_python.png" />
+</p>
+
+Volvemos al explorador, arriba a la izquierda. Ahora si, ya nos aparecerá un botón de ejecución arriba a la derecha con la flecha orientada a la izquierda. Prueba a lanzarlo y te deberá salir el mensaje correspondiente por la terminal.
+
+<p align="center">
+  <img src="./images/github_run.png" />
+</p>
