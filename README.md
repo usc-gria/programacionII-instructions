@@ -106,14 +106,16 @@ Una vez hacemos click, nos deberá salir una pantalla como la siguiente y este s
 
 Antes de comenzar a realizar las prácticas, nos queda el último paso. Ahora debemos lanzar el entorno de desarrollo integrado (IDE) para la programación. Gracias a GitHub Classroom no vamos a tener que instalar nada y haremos las prácticas a través del navegador. Si quieres una configuración más avanzada, instalando todo en tu ordenador, habla conmigo que estaré encantado de ayudarte en la puesta a punto, pero no es necesario para realizar estás prácticas. 
 
-Únicamente debemos hacer click, ahora si, en "Open in Github Codespaces" y se nos abrirá una instancia de Visual Studio Code en el navegador. 
+Únicamente debemos hacer click, ahora si, en `Open in Github Codespaces` y se nos abrirá una instancia de Visual Studio Code en el navegador. 
 
 <p align="center">
   <img src="./images/github_start.png" />
 </p>
 
 
-Ahora nos vamos al código, todas las prácticas tendrán al menos un primer archivo llamado `main.py` en la carpeta `src`. Una vez abierto el archivo `main.py` nos saldrá un mensaje como el que se muestra a continuación para instalar `python`. Lo instalamos y nos aparecerá instalado correctamente. 
+Ahora nos vamos al código, todas las prácticas tendrán al menos un primer archivo llamado `main.py` en la carpeta `src`. ¡Ten cuidado!, solo vas a poder hacer cambios dentro de la carpeta `src`, modificando archivos o creando nuevos, si tocas o cambias o creas algún otro archivo, la práctica podría quedar invalidada.
+
+Una vez abierto el archivo `main.py` nos saldrá un mensaje como el que se muestra a continuación para instalar `python`. Lo instalamos y nos aparecerá instalado correctamente. 
 
 <p align="center">
   <img src="./images/github_install.png" />
@@ -131,6 +133,8 @@ Volvemos al explorador, arriba a la izquierda. Ahora si, ya nos aparecerá un bo
 
 ## Guardar los cambios y entregar la práctica
 
+**NOTA**: Ejecuta este proceso siempre que quieras, para asegurar que tus cambios se guardan. Una buena práctica sería lanzar este proceso cada vez que termines una funcionalidad de la práctica, no hace falta tenerla completa para subirlo. Eso si, acuérdate de hacerlo siempre que termines una sesión (ya sea en clase o por tu cuenta) o vayas a apagar el ordenador o cerrar el navegador. 
+
 Solo nos queda el último paso, como guardar y/o entregar las prácticas. Vamos a hacer un pequeño cambio en nuestro `hello-world` project, añadiendo por ejemplo una línea más de código con otro `print`. Una vez realizado el cambio vemos que ha aparecido un 1 en azul en el tercer icono de la izquierda.
 
 <p align="center">
@@ -144,13 +148,13 @@ Hacemos click en ese icono y nos aparecerá la siguiente pantalla para cargar tu
   <img src="./images/github_commit.png" />
 </p>
 
-Añadimos un mensaje, ¡cuidado, no le des a confirmación antes de añadir el mensaje!. Si haces eso, el sistema se quedará "pillado" y tendrás que recargar la página. Hacemos click en confirmación y se nos mostrará un mensaje de precaución, podemos hacer click en si o en siempre para que no nos vuelva a aparecer el mensaje.
+Añadimos un mensaje, ¡cuidado, no le des a `Confirmación` antes de añadir el mensaje!. Si haces eso, el sistema se quedará "pillado" y tendrás que recargar la página. Añadimos un mensaje y hacemos click en `Confirmación` y se nos mostrará un mensaje de precaución, podemos hacer click en `Si` o en `Siempre` para que no nos vuelva a aparecer el mensaje.
 
 <p align="center">
   <img src="./images/github_message.png" />
 </p>
 
-Por último, debemos sincronizar los cambios. Hacemos click en "Sincronizar cambios 1" (no metemos un mensaje nuevo) y aceptamos el mensaje de warning que nos aparece. 
+Por último, debemos sincronizar los cambios. Hacemos click en `Sincronizar cambios 1` (no metemos un mensaje nuevo) y aceptamos el mensaje de warning que nos aparece (en `Aceptar` o en `No volver a mostrar`). 
 
 <p align="center">
   <img src="./images/github_push.png" width="45%" />
@@ -168,3 +172,13 @@ git push
 ```
 
 Y listo, tendrás los cambios subidos a tu repositorio.
+
+
+## Comprobando que mis cambios se han subido al repositorio
+
+Volvemos a nuestro repositorio en GitHub y podemos comprobar que se han subido correctamente nuestros cambios de dos formas diferentes. La primera en la página principal del repositorio viendo que aparece el mensaje que añadimos en el Visual Studio Code. La segunda sería yéndonos directamente al archivo que hemos modificado (en nuestro caso `src/main.py`) y observando que la linea que añadimos está ahí.
+
+<p align="center">
+  <img src="./images/repo_commit.png" width="45%" />
+  <img src="./images/repo_code.png" width="45%" />
+</p>
