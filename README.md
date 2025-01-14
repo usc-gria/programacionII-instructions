@@ -127,3 +127,44 @@ Volvemos al explorador, arriba a la izquierda. Ahora si, ya nos aparecerá un bo
 <p align="center">
   <img src="./images/github_run.png" />
 </p>
+
+
+## Guardar los cambios y entregar la práctica
+
+Solo nos queda el último paso, como guardar y/o entregar las prácticas. Vamos a hacer un pequeño cambio en nuestro `hello-world` project, añadiendo por ejemplo una línea más de código con otro `print`. Una vez realizado el cambio vemos que ha aparecido un 1 en azul en el tercer icono de la izquierda.
+
+<p align="center">
+  <img src="./images/github_change.png" />
+</p>
+
+
+Hacemos click en ese icono y nos aparecerá la siguiente pantalla para cargar tus cambios en el repositorio (y que así yo pueda revisarlo). 
+
+<p align="center">
+  <img src="./images/github_commit.png" />
+</p>
+
+Añadimos un mensaje, ¡cuidado, no le des a confirmación antes de añadir el mensaje!. Si haces eso, el sistema se quedará "pillado" y tendrás que recargar la página. Hacemos click en confirmación y se nos mostrará un mensaje de precaución, podemos hacer click en si o en siempre para que no nos vuelva a aparecer el mensaje.
+
+<p align="center">
+  <img src="./images/github_message.png" />
+</p>
+
+Por último, debemos sincronizar los cambios. Hacemos click en "Sincronizar cambios 1" (no metemos un mensaje nuevo) y aceptamos el mensaje de warning que nos aparece. 
+
+<p align="center">
+  <img src="./images/github_push.png" width="45%" />
+  <img src="./images/github_message2.png" width="45%" />
+</p>
+
+## Guardar los cambios y entregar la práctica (avanzado)
+
+Si prefieres usar la terminal en vez de la interfaz gráfica, puedes utilizar los siguientes comandos:
+
+```bash
+git add .
+git commit -m "AQUI PONES UN MENSAJE"
+git push
+```
+
+Y listo, tendrás los cambios subidos a tu repositorio.
