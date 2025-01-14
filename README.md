@@ -44,18 +44,19 @@ Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuen
 
 ## Comienzo de las prácticas: ¿qué tengo que hacer?
 
-### Github, qué es?
+### Github Classroom
 
-Aunque quizá sea un poco pronto en tu carrera profesional, pero cuanto antes conozcas esta herramienta, mejor. GitHub es un repositorio en la nube de código que sirve para gestionar y publicar software (libre o privado) y manejar el ciclo de vida de tus desarrollos. Muchas de las librerias o modelos de IA (por no decir todos) están subidos a esta plataforma y te aseguro que vas a hacer un uso de ella muy intensivo. 
+GitHub es un repositorio en la nube de código que sirve para gestionar y publicar software (libre o privado) y manejar el ciclo de vida de tus desarrollos. Muchas de las librerias o modelos de IA (por no decir todos) están subidos a esta plataforma y te aseguro que vas a hacer un uso de ella muy intensivo. 
 
 Además, es una organización preocupada por la educación y formación, y nos ofrece el servicio GitHub Classroom para aprender a programar de forma más sencilla para todos. 
 
 Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://github.com/), que vas a necesitar para la realización de las prácticas**. Recomendaciones:
-- Utiliza tu nombre real para el usuario: tu nombre y el primer apellido unidos con un punto (p. ej. yo sería david.chaves) sería la mejor opción.
+- Utiliza tu nombre real para el usuario: tu nombre y el primer apellido unidos con un punto sería la mejor opción (p. ej. yo sería david.chaves*).
 - Pon una foto, ya que sois muchos y así me facilitarás tu identificación.
 
+*Aunque en realidad mi username es [`dachafra`](https://github.com/dachafra)
 
-## ¿Dónde encuentro las prácticas?
+### ¿Dónde encuentro las prácticas?
 
 En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
 
@@ -68,9 +69,9 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 | LAB4 |        |
 
 
-## ¿Cómo empiezo una práctica?
+### ¿Cómo empiezo una práctica?
 
-Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace:   
+Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/nyY1WeVP 
 
 Lo primero que debemos hacer es seleccionar nuestro nombre entre la lista. **Mucho cuidado, ya que está parte solo la haremos una sola vez!**
 
@@ -102,7 +103,7 @@ Una vez hacemos click, nos deberá salir una pantalla como la siguiente y este s
 </p>
 
 
-## Lanzar nuestro proyecto y empezar a programar
+### Lanzar nuestro proyecto y empezar a programar
 
 Antes de comenzar a realizar las prácticas, nos queda el último paso. Ahora debemos lanzar el entorno de desarrollo integrado (IDE) para la programación. Gracias a GitHub Classroom no vamos a tener que instalar nada y haremos las prácticas a través del navegador. Si quieres una configuración más avanzada, instalando todo en tu ordenador, habla conmigo que estaré encantado de ayudarte en la puesta a punto, pero no es necesario para realizar estás prácticas. 
 
@@ -131,7 +132,7 @@ Volvemos al explorador, arriba a la izquierda. Ahora si, ya nos aparecerá un bo
 </p>
 
 
-## Guardar los cambios y entregar la práctica
+### Guardar los cambios y entregar la práctica
 
 **NOTA**: Ejecuta este proceso siempre que quieras, para asegurar que tus cambios se guardan. Una buena práctica sería lanzar este proceso cada vez que termines una funcionalidad de la práctica, no hace falta tenerla completa para subirlo. Eso si, acuérdate de hacerlo siempre que termines una sesión (ya sea en clase o por tu cuenta) o vayas a apagar el ordenador o cerrar el navegador. 
 
@@ -161,7 +162,7 @@ Por último, debemos sincronizar los cambios. Hacemos click en `Sincronizar camb
   <img src="./images/github_message2.png" width="45%" />
 </p>
 
-## Guardar los cambios y entregar la práctica (avanzado)
+### Guardar los cambios y entregar la práctica (avanzado)
 
 Si prefieres usar la terminal en vez de la interfaz gráfica, puedes utilizar los siguientes comandos:
 
@@ -170,11 +171,14 @@ git add .
 git commit -m "AQUI PONES UN MENSAJE"
 git push
 ```
+<p align="center">
+  <img src="./images/github_terminal.png" />
+</p>
 
-Y listo, tendrás los cambios subidos a tu repositorio.
+Y listo, tendrás los cambios subidos a tu repositorio. No te preocupes por entender los comandos, lo aprenderás en la asignatura de Ingeniería del Software en 2º Curso.
 
 
-## Comprobando que mis cambios se han subido al repositorio
+### Comprobando que mis cambios se han subido al repositorio
 
 Volvemos a nuestro repositorio en GitHub y podemos comprobar que se han subido correctamente nuestros cambios de dos formas diferentes. La primera en la página principal del repositorio viendo que aparece el mensaje que añadimos en el Visual Studio Code. La segunda sería yéndonos directamente al archivo que hemos modificado (en nuestro caso `src/main.py`) y observando que la linea que añadimos está ahí.
 
@@ -182,3 +186,9 @@ Volvemos a nuestro repositorio en GitHub y podemos comprobar que se han subido c
   <img src="./images/repo_commit.png" width="45%" />
   <img src="./images/repo_code.png" width="45%" />
 </p>
+
+
+
+## Gestión de las prácticas en mi ordenador (uso avanzado).
+
+Puedes usar GitHub Desktop y cualquier IDE que de soporte a Python (PyCharm o Visual Studio Code). Si quieres hacerlo de esta manera y tienes dudas, ponte en contacto conmigo.
