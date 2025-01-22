@@ -5,7 +5,7 @@ Bienvenidos al comienzo de las prácticas de la asingaturas de Programación II 
 Estas prácticas constarán de 12 sesiones de 2,5h cada una, donde aprenderás:
 
 0. A usar GitHub classrom y hacer debugging con python - 1 Sesión.
-1. A implementar algoritmos de ordenación y búsqueda en listas de gran tamaño, poniendo atención a la eficiencia y complejidad de los algortimos - 2 Sesiones. 
+1. A entender y poner en práctica la programación funcional - 2 Sesiones. 
 2. A comprender qué es la programación orientada a objetos (POO), para que se usa y como se implementa en python - 3 Sesiones.
 3. Nuevas estructuras de datos más complejas como las listas enzaladas, colas o las pilas, usando POO - 3 Sesiones.
 4. A implementar estructuras de datos no lineales, como lo árboles (binarios), así como a conocer su estructura interna - 2/3 Sesiones. 
