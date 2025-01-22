@@ -34,7 +34,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 ### Fechas de entrega de las prácticas
 Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuenta que la entrega se hará a través de Github, no por el CV):
 
-| Entregas | Grupo 1         | Grupo 2        | Grupo 3             |
+| LAB | Grupo 1         | Grupo 2        | Grupo 3             |
 |:--------:|:---------------:|:--------------:|:-------------------:|
 | LAB1       | Martes 25 Feb   | Lunes 24 Feb   | Miércoles 26 Feb    |
 | LAB2       | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo  |
@@ -60,13 +60,13 @@ Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://git
 
 En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
 
-| LAB  | Enlace |
-|:----:|:------:|
-| LAB0 |        |
-| LAB1 |        |
-| LAB2 |        |
-| LAB3 |        |
-| LAB4 |        |
+| LAB | Grupo 1         | Grupo 2        | Grupo 3             |
+|:--------:|:---------------:|:--------------:|:-------------------:|
+| LAB0       |  | | |
+| LAB1       |  | | |
+| LAB2       |  | | |
+| LAB3       |  | | |
+| LAB4       |  | | |
 
 
 ### ¿Cómo empiezo una práctica?
