@@ -69,7 +69,7 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 
 | LAB | Grupo 1         | Grupo 2        | Grupo 3             |
 |:--------:|:---------------:|:--------------:|:-------------------:|
-| LAB0       |  | | |
+| LAB0       |  https://classroom.github.com/a/4DnUScH7 | https://classroom.github.com/a/4DnUScH7 | https://classroom.github.com/a/4DnUScH7 |
 | LAB1       |  | | |
 | LAB2       |  | | |
 | LAB3       |  | | |
