@@ -6,27 +6,28 @@ Estas prácticas constarán de 12 sesiones de 2,5h cada una, donde aprenderás:
 
 0. A usar GitHub classrom y hacer debugging con python - 1 Sesión.
 1. A entender y poner en práctica la programación funcional - 2 Sesiones. 
-2. A comprender qué es la programación orientada a objetos (POO), para que se usa y como se implementa en python - 3 Sesiones.
+2. A comprender qué es la programación orientada a objetos (POO), para qué se usa y cómo se implementa en python - 3 Sesiones.
 3. Nuevas estructuras de datos más complejas como las listas enzaladas, colas o las pilas, usando POO - 3 Sesiones.
 4. A implementar estructuras de datos no lineales, como lo árboles (binarios), así como a conocer su estructura interna - 2/3 Sesiones. 
 
 ### Calendario de las clases
 Esta es la distribución de las clases, busca tu grupo y apúntalo:
 
-| Sesión | Grupo 1         | Grupo 2        | Grupo 3             |
-|:------:|:---------------:|:--------------:|:-------------------:|
-| 1      | Martes 4 Feb    | Lunes 3 Feb    | Miércoles 5 Feb     |
-| 2      | Martes 11 Feb   | Lunes 10 Feb   | Miércoles 12 Feb    |
-| 3      | Martes 18 Feb   | Lunes 17 Feb   | Miércoles 19 Feb    |
-| 4      | Martes 25 Feb   | Lunes 24 Feb   | Miércoles 26 Feb    |
-| 5      | Martes 11 Marzo | Lunes 10 Marzo | Miércoles 12 Marzo  |
-| 6      | Martes 18 Marzo | Lunes 17 Marzo | Miércoles 19 Marzo  |
-| 7      | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo  |
-| 8      | Martes 1 Abril  | Lunes 31 Marzo | Miércoles 2 Abril   |
-| 9      | Martes 8 Abril  | Lunes 7 Abril  | Miércoles 9 Abril   |
-| 10     | Martes 22 Abril | Lunes 21 Abril | Miércoles 23 Abril  |
-| 11     | Martes 29 Abril | Lunes 28 Abril | Miércoles 30 Abril  |
-| 12     | Martes 6 Mayo   | Lunes 5 Mayo   | Miércoles 7 Mayo    |
+| Sesión | Lab         | Grupo 1         | Grupo 2        | Grupo 3            |
+|:------:|:-----------:|:---------------:|:--------------:|:------------------:|
+| 1      | Lab0        | Martes 4 Feb    | Lunes 3 Feb    | Miércoles 5 Feb    |
+| 2      | Lab1        | Martes 11 Feb   | Lunes 10 Feb   | Miércoles 12 Feb   |
+| 3      | Lab1        | Martes 18 Feb   | Lunes 17 Feb   | Miércoles 19 Feb   |
+| 4      | Lab2        | Martes 25 Feb   | Lunes 24 Feb   | Miércoles 26 Feb   |
+| 5      | Lab2        | Martes 11 Marzo | Lunes 10 Marzo | Miércoles 12 Marzo |
+| 6      | Lab2        | Martes 18 Marzo | Lunes 17 Marzo | Miércoles 19 Marzo |
+| 7      | Lab3        | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo |
+| 8      | Lab3        | Martes 1 Abril  | Lunes 31 Marzo | Miércoles 2 Abril  |
+| 9      | Lab3        | Martes 8 Abril  | Lunes 7 Abril  | Miércoles 9 Abril  |
+| 10     | Lab4        | Martes 22 Abril | Lunes 21 Abril | Miércoles 23 Abril |
+| 11     | Lab4        | Martes 29 Abril | Lunes 28 Abril | Miércoles 30 Abril |
+| 12     | Lab4/Repaso | Martes 6 Mayo   | Lunes 5 Mayo   | Miércoles 7 Mayo   |
+
 
 **NOTA**: Cuidado! La semana de carnaval (3-7 de Marzo) no hay clase para ningún grupo ;-)
 
@@ -134,9 +135,9 @@ Volvemos al explorador, arriba a la izquierda. Ahora si, ya nos aparecerá un bo
 
 ### Guardar los cambios y entregar la práctica
 
-**NOTA**: Ejecuta este proceso siempre que quieras, para asegurar que tus cambios se guardan. Una buena práctica sería lanzar este proceso cada vez que termines una funcionalidad de la práctica, no hace falta tenerla completa para subirlo. Eso si, acuérdate de hacerlo siempre que termines una sesión (ya sea en clase o por tu cuenta) o vayas a apagar el ordenador o cerrar el navegador. 
+**NOTA**: Este proceso que vamos a ver ahora se puede ejecutar siempre que quieras, para asegurar que tus cambios se guardan. Una buena práctica sería lanzar este proceso cada vez que termines una funcionalidad de la práctica, no hace falta tenerla completa para subirlo. Eso si, acuérdate de hacerlo siempre que termines una sesión (ya sea en clase o por tu cuenta) o vayas a apagar el ordenador o cerrar el navegador. 
 
-Solo nos queda el último paso, como guardar y/o entregar las prácticas. Vamos a hacer un pequeño cambio en nuestro `hello-world` project, añadiendo por ejemplo una línea más de código con otro `print`. Una vez realizado el cambio vemos que ha aparecido un 1 en azul en el tercer icono de la izquierda.
+Solo nos queda el último paso, vamos a ver como guardar y/o entregar las prácticas. Vamos a hacer un pequeño cambio en nuestro `hello-world` project, añadiendo por ejemplo una línea más de código con otro `print`. Una vez realizado el cambio vemos que ha aparecido un 1 en azul en el tercer icono de la izquierda.
 
 <p align="center">
   <img src="./images/github_change.png" />
@@ -191,4 +192,4 @@ Volvemos a nuestro repositorio en GitHub y podemos comprobar que se han subido c
 
 ## Gestión de las prácticas en mi ordenador (uso avanzado).
 
-Puedes usar GitHub Desktop y cualquier IDE que de soporte a Python (PyCharm o Visual Studio Code). Si quieres hacerlo de esta manera y tienes dudas, ponte en contacto conmigo.
+Puedes usar [GitHub Desktop](https://desktop.github.com/download/) y cualquier IDE que de soporte a Python ([PyCharm](https://www.jetbrains.com/es-es/pycharm/download/) o Visual Studio Code). Si quieres hacerlo de esta manera y tienes dudas, ponte en contacto conmigo.
