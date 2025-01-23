@@ -35,7 +35,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 ### Fechas de entrega de las prácticas
 Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuenta que la entrega se hará a través de Github, no por el CV):
 
-<p align="center">
+<div align="center">
 
 | LAB | Grupo 1         | Grupo 2        | Grupo 3             |
 |:--------:|:---------------:|:--------------:|:-------------------:|
@@ -44,7 +44,7 @@ Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuen
 | LAB3       | Martes 22 Abril | Lunes 21 Abril | Miércoles 23 Abril  |
 | LAB4       | Martes 6 Mayo   | Lunes 5 Mayo   | Martes 7 Mayo       |
 
-</p>
+</div>
 
 ## Comienzo de las prácticas: ¿qué tengo que hacer?
 
