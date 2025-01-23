@@ -12,6 +12,7 @@ Estas prácticas constarán de 12 sesiones de 2,5h cada una, donde aprenderás:
 
 ### Calendario de las clases
 Esta es la distribución de las clases, busca tu grupo y apúntalo:
+<div align="center">
 
 | Sesión | Lab         | Grupo 1         | Grupo 2        | Grupo 3            |
 |:------:|:-----------:|:---------------:|:--------------:|:------------------:|
@@ -28,6 +29,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 | 11     | Lab4        | Martes 29 Abril | Lunes 28 Abril | Miércoles 30 Abril |
 | 12     | Lab4/Repaso | Martes 6 Mayo   | Lunes 5 Mayo   | Miércoles 7 Mayo   |
 
+</div>
 
 **NOTA**: Cuidado! La semana de carnaval (3-7 de Marzo) no hay clase para ningún grupo ;-)
 
@@ -63,6 +65,7 @@ Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://git
 ### ¿Dónde encuentro las prácticas?
 
 En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
+<div align="center">
 
 | LAB | Grupo 1         | Grupo 2        | Grupo 3             |
 |:--------:|:---------------:|:--------------:|:-------------------:|
@@ -72,6 +75,7 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 | LAB3       |  | | |
 | LAB4       |  | | |
 
+</div>
 
 ### ¿Cómo empiezo una práctica?
 
