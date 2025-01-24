@@ -12,6 +12,10 @@ Estas prácticas constarán de 12 sesiones de 2,5h cada una, donde aprenderás:
 
 ### Calendario de las clases
 Esta es la distribución de las clases, busca tu grupo y apúntalo:
+
+- Grupo 1 (Martes): IA-1.3
+- Grupo 2 (Lunes): IA-1.1
+- Grupo 3 (Miércoles): IA-1.3 
 <div align="center">
 
 | Sesión | Lab         | Grupo 1         | Grupo 2        | Grupo 3            |
