@@ -73,7 +73,7 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 
 | LAB | Grupo 1         | Grupo 2        | Grupo 3             |
 |:--------:|:---------------:|:--------------:|:-------------------:|
-| LAB0       |  https://classroom.github.com/a/4DnUScH7 | https://classroom.github.com/a/4DnUScH7 | https://classroom.github.com/a/4DnUScH7 |
+| LAB0       |   |  |  |
 | LAB1       |  | | |
 | LAB2       |  | | |
 | LAB3       |  | | |
@@ -83,7 +83,7 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 
 ### ¿Cómo empiezo una práctica?
 
-Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/nyY1WeVP 
+Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/_7ttj6KG
 
 Lo primero que debemos hacer es seleccionar nuestro nombre entre la lista. **Mucho cuidado, ya que está parte solo la haremos una sola vez!**
 
