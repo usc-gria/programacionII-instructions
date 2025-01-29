@@ -69,15 +69,48 @@ Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://git
 ### ¿Dónde encuentro las prácticas?
 
 En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
-<div align="center">
 
-| LAB | Grupo 1         | Grupo 2        | Grupo 3             |
-|:--------:|:---------------:|:--------------:|:-------------------:|
-| LAB0       |   |  |  |
-| LAB1       |  | | |
-| LAB2       |  | | |
-| LAB3       |  | | |
-| LAB4       |  | | |
+<details>
+<summary>Grupo 1</summary>
+<br>
+
+| LAB  | Enlace |
+|:------:|:--------:|
+| LAB0 | https://classroom.github.com/a/m4SJs8wR |
+| LAB1 |        |
+| LAB2 |        |
+| LAB3 |        |
+| LAB4 |        |
+
+</details>
+
+<details>
+<summary>Grupo 2</summary>
+<br>
+
+| LAB  | Enlace |
+|:------:|:--------:|
+| LAB0 | https://classroom.github.com/a/6c4ojNch  |
+| LAB1 |        |
+| LAB2 |        |
+| LAB3 |        |
+| LAB4 |        |
+
+</details>
+
+<details>
+<summary>Grupo 3</summary>
+<br>
+
+| LAB  | Enlace |
+|:------:|:--------:|
+| LAB0 | https://classroom.github.com/a/N1OIKqzT  |
+| LAB1 |        |
+| LAB2 |        |
+| LAB3 |        |
+| LAB4 |        |
+
+</details>
 
 </div>
 
