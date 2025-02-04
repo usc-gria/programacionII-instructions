@@ -82,7 +82,7 @@ En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas qu
 
 | LAB  | Enlace |
 |:------:|:--------:|
-| LAB0 | https://classroom.github.com/a/m4SJs8wR |
+| LAB0 | https://classroom.github.com/a/0sXfUUXn |
 | LAB1 |        |
 | LAB2 |        |
 | LAB3 |        |
