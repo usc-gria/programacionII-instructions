@@ -52,6 +52,52 @@ Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuen
 
 </div>
 
+## Prácticas y Notas
+
+En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
+
+<details>
+<summary>Grupo 1</summary>
+<br>
+
+| LAB  | Enlace | Notas |
+|:------:|:--------:|:--------:|
+| LAB0 | https://classroom.github.com/a/0sXfUUXn | |
+| LAB1 |        | |
+| LAB2 |        | |
+| LAB3 |        | |
+| LAB4 |        | |
+
+</details>
+
+<details>
+<summary>Grupo 2</summary>
+<br>
+
+| LAB  |                  Enlace                  | Notas |
+|:------:|:----------------------------------------:|:--------:|
+| LAB0 | https://classroom.github.com/a/6c4ojNch  | |
+| LAB1 | https://classroom.github.com/a/eR0h5Y2A  | |
+| LAB2 |                                          | |
+| LAB3 |                                          | |
+| LAB4 |                                          | |
+
+</details>
+
+<details>
+<summary>Grupo 3</summary>
+<br>
+
+| LAB  | Enlace | Notas |
+|:------:|:--------:|:--------:|
+| LAB0 | https://classroom.github.com/a/N1OIKqzT  | |
+| LAB1 |        | |
+| LAB2 |        | |
+| LAB3 |        | |
+| LAB4 |        | |
+
+</details>
+
 ## Comienzo de las prácticas: ¿qué tengo que hacer?
 
 ### Github Classroom
@@ -72,53 +118,6 @@ Lo segundo, es desactivar las notificaciones de los GitHub Actions, ya que GitHu
   <img src="./images/settings.png" />
 </p>
 
-### ¿Dónde encuentro las prácticas?
-
-En la siguiente tabla puedes encontrar el enlace a cada una de las prácticas que debes realizar en la asignatura. La tabla se irá actualizando a medida que vayamos avanzando el curso con el enlace de la siguiente práctica. 
-
-<details>
-<summary>Grupo 1</summary>
-<br>
-
-| LAB  | Enlace |
-|:------:|:--------:|
-| LAB0 | https://classroom.github.com/a/0sXfUUXn |
-| LAB1 |        |
-| LAB2 |        |
-| LAB3 |        |
-| LAB4 |        |
-
-</details>
-
-<details>
-<summary>Grupo 2</summary>
-<br>
-
-| LAB  | Enlace |
-|:------:|:--------:|
-| LAB0 | https://classroom.github.com/a/6c4ojNch  |
-| LAB1 |        |
-| LAB2 |        |
-| LAB3 |        |
-| LAB4 |        |
-
-</details>
-
-<details>
-<summary>Grupo 3</summary>
-<br>
-
-| LAB  | Enlace |
-|:------:|:--------:|
-| LAB0 | https://classroom.github.com/a/N1OIKqzT  |
-| LAB1 |        |
-| LAB2 |        |
-| LAB3 |        |
-| LAB4 |        |
-
-</details>
-
-</div>
 
 ### ¿Cómo empiezo una práctica?
 
