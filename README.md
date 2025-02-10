@@ -74,13 +74,13 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 <summary>Grupo 2</summary>
 <br>
 
-| LAB  |                  Enlace                  | Notas |
-|:------:|:----------------------------------------:|:--------:|
-| LAB0 | https://classroom.github.com/a/6c4ojNch  | |
-| LAB1 | https://classroom.github.com/a/eR0h5Y2A  | |
-| LAB2 |                                          | |
-| LAB3 |                                          | |
-| LAB4 |                                          | |
+| LAB  |                  Enlace                  |               Notas               |
+|:------:|:----------------------------------------:|:---------------------------------:|
+| LAB0 | https://classroom.github.com/a/6c4ojNch  | [Enlace](./evaluacion/g2/lab0.md) |
+| LAB1 | https://classroom.github.com/a/eR0h5Y2A  |                                   |
+| LAB2 |                                          |                                   |
+| LAB3 |                                          |                                   |
+| LAB4 |                                          |                                   |
 
 </details>
 
