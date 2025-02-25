@@ -1,21 +1,22 @@
 |  LAB  |          Nombre           | Nota | Grupo |
-|:-----:|:-------------------------:|:----:|:-----:|
-| lab0  |   Alejo Díaz Rodríguez    |  NP  | G1      |
-| lab0  |  Anxo Fernández Martínez  |  10  | G1      |
-| lab0  |    Carmen Eguía Pérez     |  10  | G1      |
-| lab0  |     Elena Couto Fraga     |  10  | G1      |
-| lab0  | Gabriel Fernandez Segade  |  10  | G1      |
-| lab0  |  Galván Dacosta Vázquez   |  10  | G1      |
-| lab0  |    Iria Campos Seoane     |  10  | G1      |
-| lab0  |   Ismael Adrover Amado    |  10  | G1      |
-| lab0  |  Joel Estraviz Nogueiro   |  10  | G1      |
-| lab0  |  Jorge Fernández Beloso   |  9   | G1      |
-| lab0  |  José Ramón Beiro Tajes   |  10  | G1      |
-| lab0  |  Manuel Fernández Vilela  |  8   | G1      |
-| lab0  | María de Miguel Fernández |  10  | G1      |
-| lab0  | Mario Fanego Sánchez-Mera |  NP  | G1      |
-| lab0  |     Mauro Calvo Pérez     |  10  | G1      |
-| lab0  |    Nahia Castro Novas     |  10  | G1      |
-| lab0  |     Noa Diz Fernández     |  10  | G1      |
-| lab0  |     Nora Barros López     |  8   | G1      |
-| lab0  |  Paula Carreira Torneiro  |  10  | G1      |
+|:-----:|:-------------------------:|:-:|:-----:|
+| lab1  |   Alejo Díaz Rodríguez    |   | G1      |
+| lab1  |  Anxo Fernández Martínez  |   | G1      |
+| lab1  |    Carmen Eguía Pérez     |   | G1      |
+| lab1  |     Elena Couto Fraga     |   | G1      |
+| lab1  | Gabriel Fernandez Segade  |   | G1      |
+| lab1  |  Galván Dacosta Vázquez   |   | G1      |
+| lab1  |    Iria Campos Seoane     |   | G1      |
+| lab1  |   Ismael Adrover Amado    |   | G1      |
+| lab1  |  Joel Estraviz Nogueiro   |   | G1      |
+| lab1  |  Jorge Fernández Beloso   |   | G1      |
+| lab1  |  José Ramón Beiro Tajes   |   | G1      |
+| lab1  |  Manuel Fernández Vilela  |   | G1      |
+| lab1  | María de Miguel Fernández |   | G1      |
+| lab1  | Mario Fanego Sánchez-Mera |   | G1      |
+| lab1  |     Mauro Calvo Pérez     |   | G1      |
+| lab1  |    Nahia Castro Novas     |   | G1      |
+| lab1  |     Noa Diz Fernández     |   | G1      |
+| lab1  |     Nora Barros López     |   | G1      |
+| lab1  |    Pablo Cainzos Piñón    |   | G1      |
+| lab1  |  Paula Carreira Torneiro  |   | G1      |
