@@ -29,7 +29,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 | 7      | Lab3        | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo |
 | 8      | Lab3        | Martes 1 Abril  | Lunes 31 Marzo | Miércoles 2 Abril  |
 | 9      | Lab3        | Martes 8 Abril  | Lunes 7 Abril  | Miércoles 9 Abril  |
-| 10     | Lab4        | Martes 22 Abril | Lunes 21 Abril | Miércoles 23 Abril |
+| 10     | Lab4        | Martes 22 Abril |  | Miércoles 23 Abril |
 | 11     | Lab4        | Martes 29 Abril | Lunes 28 Abril | Miércoles 30 Abril |
 | 12     | Lab4/Repaso | Martes 6 Mayo   | Lunes 5 Mayo   | Miércoles 7 Mayo   |
 
