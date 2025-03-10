@@ -18,20 +18,20 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 - Grupo 3 (Miércoles): IA-1.3 
 <div align="center">
 
-| Sesión | Lab         | Grupo 1         | Grupo 2        | Grupo 3            |
-|:------:|:-----------:|:---------------:|:--------------:|:------------------:|
-| 1      | Lab0        | Martes 4 Feb    | Lunes 3 Feb    | Miércoles 5 Feb    |
-| 2      | Lab1        | Martes 11 Feb   | Lunes 10 Feb   | Miércoles 12 Feb   |
-| 3      | Lab1        | Martes 18 Feb   | Lunes 17 Feb   | Miércoles 19 Feb   |
-| 4      | Lab2        | Martes 25 Feb   | Lunes 24 Feb   | Miércoles 26 Feb   |
-| 5      | Lab2        | Martes 11 Marzo | Lunes 10 Marzo | Miércoles 12 Marzo |
-| 6      | Lab2        | Martes 18 Marzo | Lunes 17 Marzo | Miércoles 19 Marzo |
-| 7      | Lab3        | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo |
-| 8      | Lab3        | Martes 1 Abril  | Lunes 31 Marzo | Miércoles 2 Abril  |
-| 9      | Lab3        | Martes 8 Abril  | Lunes 7 Abril  | Miércoles 9 Abril  |
-| 10     | Lab4        | Martes 22 Abril |  | Miércoles 23 Abril |
-| 11     | Lab4        | Martes 29 Abril | Lunes 28 Abril | Miércoles 30 Abril |
-| 12     | Lab4/Repaso | Martes 6 Mayo   | Lunes 5 Mayo   | Miércoles 7 Mayo   |
+| Sesión | Lab         | Grupo 1         |                  Grupo 2                   | Grupo 3            |
+|:------:|:-----------:|:---------------:|:------------------------------------------:|:------------------:|
+| 1      | Lab0        | Martes 4 Feb    |                Lunes 3 Feb                 | Miércoles 5 Feb    |
+| 2      | Lab1        | Martes 11 Feb   |                Lunes 10 Feb                | Miércoles 12 Feb   |
+| 3      | Lab1        | Martes 18 Feb   |                Lunes 17 Feb                | Miércoles 19 Feb   |
+| 4      | Lab2        | Martes 25 Feb   |                Lunes 24 Feb                | Miércoles 26 Feb   |
+| 5      | Lab2        | Martes 11 Marzo |               Lunes 10 Marzo               | Miércoles 12 Marzo |
+| 6      | Lab2        | Martes 18 Marzo |               Lunes 17 Marzo               | Miércoles 19 Marzo |
+| 7      | Lab3        | Martes 25 Marzo |               Lunes 24 Marzo               | Miércoles 26 Marzo |
+| 8      | Lab3        | Martes 1 Abril  |               Lunes 31 Marzo               | Miércoles 2 Abril  |
+| 9      | Lab3        | Martes 8 Abril  |               Lunes 7 Abril                | Miércoles 9 Abril  |
+| 10     | Lab4        | Martes 22 Abril |               Lunes 28 Abril               | Miércoles 23 Abril |
+| 11     | Lab4        | Martes 29 Abril | Miércoles 23 y 30 de Abril (11:00 - 12:00) | Miércoles 30 Abril |
+| 12     | Lab4/Repaso | Martes 6 Mayo   |                Lunes 5 Mayo                | Miércoles 7 Mayo   |
 
 </div>
 
