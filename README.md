@@ -242,3 +242,47 @@ Volvemos a nuestro repositorio en GitHub y podemos comprobar que se han subido c
 ## Gestión de las prácticas en mi ordenador (uso avanzado).
 
 Puedes usar [GitHub Desktop](https://desktop.github.com/download/) y cualquier IDE que de soporte a Python ([PyCharm](https://www.jetbrains.com/es-es/pycharm/download/) o Visual Studio Code). Si quieres hacerlo de esta manera y tienes dudas, ponte en contacto conmigo.
+
+## ¿Qué hago si llego al limite de las 200 horas con Codespaces?
+
+Es problable que si le dedicas muchas horas a las prácticas acabes llegando al límite de 200 horas en Codespaces, por lo que hay que configurar la práctica de forma local. Para ello necesitas:
+
+1. Instalar GitHub Desktop, que puedes descargar aquí: https://central.github.com/deployments/desktop/desktop/latest/win32 
+2. Tener instalado VSCode, que puedes descargar aquí: https://code.visualstudio.com/download 
+
+A continuación debes seguir unos pasos muy sencillos. Ten en cuenta que las caputas de pantalla son hechas con la versión de Mac, por lo que las tuyas puede que sean algo difernetes.
+
+Ejecuta GitHub Desktop y date de alta con tu cuenta de GitHub. Tienes que pulsar en Sign in to Github.com y seguir los pasos, autorizando la aplicación.
+
+<p align="center">
+  <img src="./images/desktop_github.png" />
+</p>
+
+Nos saldrá una ventana de configuración como la siguiente y dejamos seleccionada `Use my Github account name and email address`. Pulsamos en Finish.
+<p align="center">
+  <img src="./images/desktop_config.png" />
+</p>
+
+Una vez hecho el registro debeía aparecerte la siguiente ventana. En ella pulsamos en `Clone a Repository from the internet` a la derecha.
+<p align="center">
+  <img src="./images/desktop_start.png" />
+</p>
+
+Nos saldrá la siguiente pantalla donde debemos escoger el repositorio que queremos clonar (siempre será algo como usc-gria/g2-lab2-dachafra, usa el buscador para encontrarla). **Es muy importannte escoger la carpeta donde quieres guardar tú práctica en el ordenador**. Para ello seleciona el `Local Path` pulsando en Choose en la parte baja de la pantalla, acuerdate bien porque luego vamos a necesitar esa carpeta. Mi recomendación es que selecciones una carpeta que se llame `practicas-progII` o algo similar. Pulsamos en Clone. 
+<p align="center">
+  <img src="./images/desktop_clone.png" />
+</p>
+
+Si por lo que fuese estos pasos no se hiciesen correctamente, siempre se puede volver a estas ventanas a través de "Archivo (o File) --> Clone Repository. 
+
+Si nos aparece un mensaje como el que se muestra a continuación, simplemente lo ignoramos cerrando la ventana. 
+<p align="center">
+  <img src="./images/desktop_warning.png" />
+</p>
+
+
+Una vez completado este proceso, debemos abrir el VSCode y seleccionar `Archivo --> Abrir carpeta`. Seleccionamos la carpeta donde habíamos guardado nuestra práctica, y ya podemos seguir trabajando de la misma manera que lo hacíamos con Codespaces, subiendo los cambios directamente desde el VSCode
+
+<p align="center">
+  <img src="./images/desktop_vscode.png" />
+</p>
