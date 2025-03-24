@@ -60,13 +60,13 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 <summary>Grupo 1</summary>
 <br>
 
-| LAB  |                 Enlace |               Notas               |
-|:------:|:--------------------:|:---------------------------------:|
-| LAB0 | https://classroom.github.com/a/0sXfUUXn | [Enlace](./evaluacion/g1/lab0.md) |
-| LAB1 | https://classroom.github.com/a/Lgcguk3p | [Enlace](./evaluacion/g1/lab1.md) |
-| LAB2 | https://classroom.github.com/a/eiQ_8Nal |                                   |
-| LAB3 |                      |                                   |
-| LAB4 |                      |                                   |
+| LAB  |                           Enlace                           |               Notas               |
+|:------:|:----------------------------------------------------------:|:---------------------------------:|
+| LAB0 |          https://classroom.github.com/a/0sXfUUXn           | [Enlace](./evaluacion/g1/lab0.md) |
+| LAB1 |          https://classroom.github.com/a/Lgcguk3p           | [Enlace](./evaluacion/g1/lab1.md) |
+| LAB2 |          https://classroom.github.com/a/eiQ_8Nal           |                                   |
+| LAB3 |           https://classroom.github.com/a/RYr0eSx           |                                   |
+| LAB4 |                                                            |                                   |
 
 </details>
 
