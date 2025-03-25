@@ -43,12 +43,12 @@ Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuen
 
 <div align="center">
 
-| LAB | Grupo 1         | Grupo 2        | Grupo 3             |
-|:--------:|:---------------:|:--------------:|:-------------------:|
-| LAB1       | Martes 25 Feb   | Lunes 24 Feb   | Miércoles 26 Feb    |
-| LAB2       | Martes 25 Marzo | Lunes 24 Marzo | Miércoles 26 Marzo  |
-| LAB3       | Martes 22 Abril | Lunes 21 Abril | Miércoles 23 Abril  |
-| LAB4       | Martes 6 Mayo   | Lunes 5 Mayo   | Martes 7 Mayo       |
+| LAB | Grupo 1         |           Grupo 2           | Grupo 3             |
+|:--------:|:---------------:|:---------------------------:|:-------------------:|
+| LAB1       | Martes 25 Feb   |        Lunes 24 Feb         | Miércoles 26 Feb    |
+| LAB2       | Martes 25 Marzo |       Lunes 24 Marzo        | Miércoles 26 Marzo  |
+| LAB3       | Martes 22 Abril | Miércoles 23 Abril (11:00h) | Miércoles 23 Abril  |
+| LAB4       | Martes 6 Mayo   |        Lunes 5 Mayo         | Martes 7 Mayo       |
 
 </div>
 
@@ -65,7 +65,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB0 |          https://classroom.github.com/a/0sXfUUXn           | [Enlace](./evaluacion/g1/lab0.md) |
 | LAB1 |          https://classroom.github.com/a/Lgcguk3p           | [Enlace](./evaluacion/g1/lab1.md) |
 | LAB2 |          https://classroom.github.com/a/eiQ_8Nal           |                                   |
-| LAB3 |                     |                                   |
+| LAB3 |          https://classroom.github.com/a/yOVExgnA           |                                   |
 | LAB4 |                                                            |                                   |
 
 </details>
@@ -79,7 +79,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB0 | https://classroom.github.com/a/6c4ojNch  | [Enlace](./evaluacion/g2/lab0.md) |
 | LAB1 | https://classroom.github.com/a/eR0h5Y2A  | [Enlace](./evaluacion/g2/lab1.md) |
 | LAB2 | https://classroom.github.com/a/aml8WJ-2  |                                   |
-| LAB3 | https://classroom.github.com/a/RYr0eSxv                                  |                                   |
+| LAB3 |https://classroom.github.com/a/RYr0eSxv   |                                   |
 | LAB4 |                                          |                                   |
 
 </details>
@@ -93,7 +93,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB0 | https://classroom.github.com/a/N1OIKqzT  | [Enlace](./evaluacion/g3/lab0.md) |
 | LAB1 | https://classroom.github.com/a/hFEAjfSe  | [Enlace](./evaluacion/g3/lab1.md) |
 | LAB2 | https://classroom.github.com/a/MbCI1rZW  |                                   |
-| LAB3 |        |                                   |
+| LAB3 | https://classroom.github.com/a/IVTMYY5y  |                                   |
 | LAB4 |        |                                   |
 
 </details>
@@ -286,3 +286,11 @@ Una vez completado este proceso, debemos abrir el VSCode y seleccionar `Archivo 
 <p align="center">
   <img src="./images/desktop_vscode.png" />
 </p>
+
+
+Si necesitas instalar alguna librería externa (p.ej `requests`), debes abrir una terminal (vale tanto la terminal de Windows como una en VSCode) y lanzar:
+```bash
+python -m pip install <nombre_libreria>
+```
+
+En el caso de que no te funcionase, lo más seguro es que sea porque el comando `python` no está incluido en el path environment. Tienes algunas de las posibles soluciones en este [hilo de Stack Overflow](https://stackoverflow.com/questions/65348890/python-was-not-found-run-without-arguments-to-install-from-the-microsoft-store)
