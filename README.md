@@ -92,7 +92,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 |:------:|:--------:|:---------------------------------:|
 | LAB0 | https://classroom.github.com/a/N1OIKqzT  | [Enlace](./evaluacion/g3/lab0.md) |
 | LAB1 | https://classroom.github.com/a/hFEAjfSe  | [Enlace](./evaluacion/g3/lab1.md) |
-| LAB2 | https://classroom.github.com/a/MbCI1rZW  |                                   |
+| LAB2 | https://classroom.github.com/a/MbCI1rZW  | [Enlace](./evaluacion/g3/lab2.md) |
 | LAB3 | https://classroom.github.com/a/IVTMYY5y  |                                   |
 | LAB4 |        |                                   |
 

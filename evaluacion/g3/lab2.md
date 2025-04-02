@@ -1,22 +1,22 @@
 | LAB  |              Nombre               | Nota | Grupo |
-|:----:|:---------------------------------:|:-:|:--:|
-| lab2 |    Adrián Sequeiro Miramontes     |   |  G3 |
-| lab2 |      Adrian Valiño Armental       |   |  G3 |
-| lab2 |      Alejandro Portela Román      |   |  G3 |
-| lab2 |      Alejandro Varela Folgar      |   |  G3 |
-| lab2 |        Alex Vaamonde Ginzo        |   | G3 |
-| lab2 |     Anne Ziyan Saavedra Otero     |   |  G3 |
-| lab2 |      Daniel Rodríguez Lomba       |   |  G3 |
-| lab2 |       Ester Riveira Alonso        |   |  G3 |
-| lab2 |     Fernando Viqueira Garcia      |   |  G3 |
-| lab2 |       Hugo Suárez Martínez        |   |  G3 |
-| lab2 |      Juan Pablo Pardo Pérez       |   |  G3 |
-| lab2 |        Lucía Pérez Moretti        |   |  G3 |
-| lab2 |      Martin Pintos Gutierrez      |   |  G3 |
-| lab2 |         Martín Rey Vidal          |   |  G3 |
-| lab2 |       Martín Rivera Recarey       |   |  G3 |
-| lab2 |       Martín Vázquez Lestón       |   |  G3 |
-| lab2 | Pablo José Vázquez González-Elipe |   |  G3 |
-| lab2 |      Pablo Rodríguez Franco       |   |  G3 |
-| lab2 |     Víctor Sanroman Giráldez      |   |  G3 |
-| lab2 |       Xián Touriño Martínez       |   |  G3 |
+|:----:|:---------------------------------:|:----:|:--:|
+| lab2 |    Adrián Sequeiro Miramontes     |  8   |  G3 |
+| lab2 |      Adrian Valiño Armental       | 9.5  |  G3 |
+| lab2 |      Alejandro Portela Román      |  10  |  G3 |
+| lab2 |      Alejandro Varela Folgar      |  7   |  G3 |
+| lab2 |        Alex Vaamonde Ginzo        |  8   | G3 |
+| lab2 |     Anne Ziyan Saavedra Otero     |  9   |  G3 |
+| lab2 |      Daniel Rodríguez Lomba       |  6   |  G3 |
+| lab2 |       Ester Riveira Alonso        |  10  |  G3 |
+| lab2 |     Fernando Viqueira Garcia      |  9   |  G3 |
+| lab2 |       Hugo Suárez Martínez        |  6   |  G3 |
+| lab2 |      Juan Pablo Pardo Pérez       | 8.5  |  G3 |
+| lab2 |        Lucía Pérez Moretti        | 8.5  |  G3 |
+| lab2 |      Martin Pintos Gutierrez      |  8   |  G3 |
+| lab2 |         Martín Rey Vidal          |  10  |  G3 |
+| lab2 |       Martín Rivera Recarey       | 8.5  |  G3 |
+| lab2 |       Martín Vázquez Lestón       | 9.5  |  G3 |
+| lab2 | Pablo José Vázquez González-Elipe |  10  |  G3 |
+| lab2 |      Pablo Rodríguez Franco       |  8   |  G3 |
+| lab2 |     Víctor Sanroman Giráldez      | 9.5  |  G3 |
+| lab2 |       Xián Touriño Martínez       |  10  |  G3 |
