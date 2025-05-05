@@ -65,7 +65,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB0 |          https://classroom.github.com/a/0sXfUUXn           | [Enlace](./evaluacion/g1/lab0.md) |
 | LAB1 |          https://classroom.github.com/a/Lgcguk3p           | [Enlace](./evaluacion/g1/lab1.md) |
 | LAB2 |          https://classroom.github.com/a/eiQ_8Nal           | [Enlace](./evaluacion/g1/lab2.md) |
-| LAB3 |          https://classroom.github.com/a/yOVExgnA           |                                   |
+| LAB3 |          https://classroom.github.com/a/yOVExgnA           | [Enlace](./evaluacion/g1/lab3.md) |
 | LAB4 |          https://classroom.github.com/a/-rkR6dtu                                                  |                                   |
 
 </details>
