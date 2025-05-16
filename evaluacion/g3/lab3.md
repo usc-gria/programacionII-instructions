@@ -18,5 +18,5 @@
 | lab3 |       Martín Vázquez Lestón       |  9   |  G3   |
 | lab3 | Pablo José Vázquez González-Elipe | 9,5  |  G3   |
 | lab3 |      Pablo Rodríguez Franco       |  7   |  G3   |
-| lab3 |     Víctor Sanroman Giráldez      | 6,5  |  G3   |
+| lab3 |     Víctor Sanroman Giráldez      |  8   |  G3   |
 | lab3 |       Xián Touriño Martínez       |  7   |  G3   |

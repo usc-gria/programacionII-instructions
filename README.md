@@ -66,7 +66,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB1 |          https://classroom.github.com/a/Lgcguk3p           | [Enlace](./evaluacion/g1/lab1.md) |
 | LAB2 |          https://classroom.github.com/a/eiQ_8Nal           | [Enlace](./evaluacion/g1/lab2.md) |
 | LAB3 |          https://classroom.github.com/a/yOVExgnA           | [Enlace](./evaluacion/g1/lab3.md) |
-| LAB4 |          https://classroom.github.com/a/-rkR6dtu                                                  |                                   |
+| LAB4 |          https://classroom.github.com/a/-rkR6dtu                                                  | [Enlace](./evaluacion/g1/lab4.md) |
 
 </details>
 
@@ -80,7 +80,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB1 | https://classroom.github.com/a/eR0h5Y2A  | [Enlace](./evaluacion/g2/lab1.md) |
 | LAB2 | https://classroom.github.com/a/aml8WJ-2  | [Enlace](./evaluacion/g2/lab2.md) |
 | LAB3 |https://classroom.github.com/a/RYr0eSxv   | [Enlace](./evaluacion/g2/lab3.md) |
-| LAB4 |  https://classroom.github.com/a/pVHB50Ey  |                                   |
+| LAB4 |  https://classroom.github.com/a/pVHB50Ey  | [Enlace](./evaluacion/g1/lab4.md) |
 
 </details>
 
@@ -94,7 +94,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 | LAB1 | https://classroom.github.com/a/hFEAjfSe  | [Enlace](./evaluacion/g3/lab1.md) |
 | LAB2 | https://classroom.github.com/a/MbCI1rZW  | [Enlace](./evaluacion/g3/lab2.md) |
 | LAB3 | https://classroom.github.com/a/IVTMYY5y  | [Enlace](./evaluacion/g3/lab3.md) |
-| LAB4 | https://classroom.github.com/a/T1OjEsfx       |                                   |
+| LAB4 | https://classroom.github.com/a/T1OjEsfx       | [Enlace](./evaluacion/g1/lab4.md) |
 
 </details>
 
