@@ -14,7 +14,7 @@
 | lab4 |        Lucía Pérez Moretti        | 9,5  |  G3   |
 | lab4 |      Martin Pintos Gutierrez      |  NP  |  G3   |
 | lab4 |         Martín Rey Vidal          |  9   |  G3   |
-| lab4 |       Martín Rivera Recarey       |  NP  |  G3   |
+| lab4 |       Martín Rivera Recarey       |  7   |  G3   |
 | lab4 |       Martín Vázquez Lestón       |  9   |  G3   |
 | lab4 | Pablo José Vázquez González-Elipe |  10  |  G3   |
 | lab4 |      Pablo Rodríguez Franco       |  10  |  G3   |
